@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008862020051",
+    "project_id": "mytodos-ea836",
+    "storage_bucket": "mytodos-ea836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008862020051:android:a3c0dd33cee6a95db06f26",
+        "android_client_info": {
+          "package_name": "com.example.mytodoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008862020051-rmrmf2tpot9lmmsamaph7ejq4r73k9p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ0_qeTAuubvoMqkC-gsMpAYZ7d9B6piM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008862020051-rmrmf2tpot9lmmsamaph7ejq4r73k9p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
