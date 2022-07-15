@@ -18,7 +18,7 @@ class MainPage extends StatelessWidget {
             } else if (snapshot.hasData) {
               return Logined();
             } else if (snapshot.hasError) {
-              return Center(child: Text("shomthing Went Wrong "));
+              return Center(child: Text("shomthing went wrong "));
             } else {
               return HomePage();
             }
